@@ -1,4 +1,5 @@
 #二分查找
+#时间复杂度为O（log n）
 def binary_search(list,item):
     low = 0
     high = len(list)-1
